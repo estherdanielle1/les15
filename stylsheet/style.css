@@ -1,0 +1,101 @@
+body{ background-color:#C7A0C2 ;
+    max-width: 900px;
+    margin:auto;
+    padding: 5px 5px 5px 5px;
+    }
+    header{
+       width: 100%;
+       height: 60px; background-color:#A9D1DD;
+       color:#B86E93;
+       padding: 10px}
+    nav{
+        text-align: center;
+        padding: 15px;
+        width: 100%;
+       }
+   .nav1{
+        margin:auto;
+        text-align: center;
+        background-color:#C7A0C2;  
+        font-family: 'Indie Flower', cursive; color:#226597 ;  
+       }
+    .nav1:hover{
+        background-color:#B86E93 ;}
+    p{
+        text-align: center;
+        font-family: 'Indie Flower', cursive; color :#226597;
+        padding: 5px;
+     }
+     h1{ text-align: center;
+         border-style: double;
+         font-family: 'Indie Flower', cursive; color :#B86E93;
+        padding: 5px;
+        }
+        #C7A0C2 #B86E93 #9C81B9 #A9D1DD #226597
+     #verhaal{
+         margin: auto;
+         width: 50%;
+         min-height: 700;
+         background-color:#226597;
+         color:#B86E93;
+         padding: 5px;
+     }
+     img{
+     width: 25%;
+     border-radius: 5px;
+     border:5px solid white;
+     padding: 5px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 40%;
+     }
+     table{
+        margin: auto;
+        margin-bottom: 30px;
+        border-collapse: collapse;
+        width: 500px;
+        padding:15px
+        }
+    td,th{
+        text-align: center;
+        padding: 5px;
+        font-family: 'Indie Flower', cursive; color :#3caea3;
+        background-color: #226597;
+        }
+        
+        
+    input[type="text"], input[type="email"], textarea, select, button{
+            display: block;
+            margin: 15px 15px;
+            width: 400px;
+            box-sizing: border-box;
+            border-radius: 10px;box-shadow: inset 2px  #3caea3;
+            background-color: #A9D1DD;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 5px;
+        }
+    textarea{
+            height: 200px;
+            padding: 5px 5px;
+            background-color:#B86E93;
+        }
+    button:active{
+        margin-left: auto;
+        margin-right: auto;
+        background-color:#226597 ;
+        color: #B86E93;
+        border-radius: 4px;box-shadow: inset 2px 2px 5px #B86E93;
+        padding: 5px;
+    }
+    
+     
+footer{
+    text-align: center;
+        background-color: #A9D1DD;
+        width: 100%;
+        height: 60px;
+        padding: 15px;
+        font-family: 'Indie Flower', cursive; color :#226597;
+        }   
